@@ -40,3 +40,4 @@ jspm_packages
 *.map
 *.spec.js
 *.d.ts
+components.js
